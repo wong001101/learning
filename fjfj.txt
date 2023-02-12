@@ -1,1 +1,6 @@
 first test
+
+the todo list
+1. write an article 
+2. code.
+3. study code
